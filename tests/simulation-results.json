@@ -1,0 +1,133 @@
+[
+  {
+    "players": 2,
+    "goal": 25,
+    "seed": 20261019,
+    "status": "finished",
+    "turns": 20,
+    "actions": 44,
+    "contested": 0,
+    "winner": "Player 1",
+    "winnerHearts": 25,
+    "hearts": [
+      13,
+      25
+    ],
+    "counts": {
+      "ready": 2,
+      "start": 1,
+      "endTurn": 19,
+      "deploy": 6,
+      "summon": 8,
+      "pass": 8
+    }
+  },
+  {
+    "players": 4,
+    "goal": 25,
+    "seed": 20261020,
+    "status": "finished",
+    "turns": 21,
+    "actions": 98,
+    "contested": 0,
+    "winner": "Player 0",
+    "winnerHearts": 28,
+    "hearts": [
+      28,
+      15,
+      12,
+      16
+    ],
+    "counts": {
+      "ready": 4,
+      "start": 1,
+      "deploy": 17,
+      "endTurn": 20,
+      "summon": 14,
+      "pass": 42
+    }
+  },
+  {
+    "players": 8,
+    "goal": 25,
+    "seed": 20261021,
+    "status": "finished",
+    "turns": 41,
+    "actions": 227,
+    "contested": 9,
+    "winner": "Player 0",
+    "winnerHearts": 25,
+    "hearts": [
+      25,
+      6,
+      8,
+      11,
+      14,
+      8,
+      4,
+      7
+    ],
+    "counts": {
+      "ready": 8,
+      "start": 1,
+      "deploy": 31,
+      "endTurn": 40,
+      "summon": 15,
+      "bid": 9,
+      "pass": 123
+    }
+  },
+  {
+    "players": 4,
+    "goal": 36,
+    "seed": 20261022,
+    "status": "finished",
+    "turns": 47,
+    "actions": 153,
+    "contested": 1,
+    "winner": "Player 1",
+    "winnerHearts": 37,
+    "hearts": [
+      8,
+      37,
+      4,
+      22
+    ],
+    "counts": {
+      "ready": 4,
+      "start": 1,
+      "endTurn": 46,
+      "summon": 19,
+      "bid": 1,
+      "pass": 57,
+      "deploy": 20,
+      "discardPermanent": 5
+    }
+  },
+  {
+    "players": 4,
+    "goal": 50,
+    "seed": 20261023,
+    "status": "finished",
+    "turns": 31,
+    "actions": 170,
+    "contested": 5,
+    "winner": "Player 2",
+    "winnerHearts": 76,
+    "hearts": [
+      25,
+      9,
+      76,
+      22
+    ],
+    "counts": {
+      "ready": 4,
+      "start": 1,
+      "deploy": 23,
+      "endTurn": 30,
+      "summon": 25,
+      "pass": 82,
+      "bid": 5
+    }
+  }
+]
